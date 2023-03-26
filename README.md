@@ -1,1 +1,1 @@
-# MTH337
+# Data-related projects
